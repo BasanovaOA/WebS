@@ -17,10 +17,10 @@ namespace FreeMedHelp.DomainObjects.Ports
 
     public interface IMedPointRepository
     {
-        Task AddRoute(MedPoint route);
+        Task AddMedPoint(MedPoint medpoint);
 
-        Task RemoveRoute(MedPoint route);
+        Task RemoveMedPoint(MedPoint medpoint);
 
-        Task UpdateRoute(MedPoint route);
+        Task UpdateMedPoint(MedPoint medpoint);
     }
 }
