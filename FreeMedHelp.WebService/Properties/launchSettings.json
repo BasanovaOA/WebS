@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "MoscowTransport.WebService": {
+    "FreeMedHelp.WebService": 
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "medpoints",
